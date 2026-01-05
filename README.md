@@ -49,7 +49,7 @@ This structure improves readability, reduces duplication, and supports scalabili
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/OZayed2023/saucedemo-web-automation_testing_using_selenium.git>
 ```
 2. Navigate to the project directory:
 ```bash
